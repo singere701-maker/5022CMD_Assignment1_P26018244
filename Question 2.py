@@ -1,8 +1,4 @@
-"""
-Module: 5022CMD Advanced Algorithms
-Question 2: Generic Graph & Course Prerequisite System
-Suitable for direct execution in PyCharm.
-"""
+
 
 from typing import Generic, TypeVar, List, Dict
 

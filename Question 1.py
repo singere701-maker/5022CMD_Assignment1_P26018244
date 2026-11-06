@@ -1,8 +1,4 @@
-"""
-Module: 5022CMD Advanced Algorithms
-Question 1: Hash Table (Open Addressing + Linear Probing) & Pharmacy Inventory
-Suitable for direct execution in PyCharm.
-"""
+
 
 import time
 import random
