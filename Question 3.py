@@ -76,12 +76,5 @@ def main():
     avg_seq = sum(seq_times) / rounds
     print(f"Average T (Without Multithreading): {avg_seq:,.0f} ns\n")
 
-    print("-" * 65)
-    print("VIVA INSIGHT:")
-    print("Due to CPython's Global Interpreter Lock (GIL), multithreading CPU-bound")
-    print("tasks like recursive Fibonacci does not achieve parallel speedups.")
-    print("-" * 65)
-
-
 if __name__ == "__main__":
     main()
